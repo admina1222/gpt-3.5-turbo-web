@@ -12,3 +12,5 @@ Set up an OpenAI API key and update the $OPENAI_API_KEY variable in the index.ph
 Open the index.php file in a web browser to use ChatGPT.
 
 Personal website: https://xunika.uk/
+
+暂无连续对话功能。
