@@ -10,3 +10,5 @@ Clone the repository to your local machine using Git or download the code as a Z
 Upload the contents of the src folder to your server.
 Set up an OpenAI API key and update the $OPENAI_API_KEY variable in the index.php file with your key.
 Open the index.php file in a web browser to use ChatGPT.
+
+Personal website: https://xunika.uk/
